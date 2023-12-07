@@ -1,0 +1,14 @@
+Una vez el PO obtiene los requerimientos del producto, comenzara a diseñar el spring backlog el cual tendra como 
+criterio la importancia de cada uno para darles una posicion y ademas teniendo en cuenta que cada iteracion 
+quepa en lapsos de 15 o 30 dias. Este  a su vez es el unico que tiene poder de desicion sobre eliminar, agregar o modificar
+los springs y es el que tiene contacto directo con el STAKEHOLDER.
+El SCRUM Master se encargara junto con el equipo de desarrollo de llevar a cabo cada una de los spring de la mejor manera
+dando soporte al equipo para que fluya, sobre todo en momentos donde el equipo encuentre trabas o problemas. Este tambien
+se encarga de que se cumplas las buenas practicas y procesos de la metodologìa SCRUM.
+El equipo de desarrollo que pueda estar compuesto por hasta 9 personas y entre ellas se pueden encontrar devs, testers y analistas.
+Son los capaces de materializar cada una de las iteraciones y poder darle incremento al producto.
+Dentro de todo este proceso se encuetran las DAILY MEETING las cuales sirven no para solucionar un problema sino 
+para informar al resto del equipo en que estado se encuentra cada uno y cuales van a ser sus pasos a seguir.No suelen durar
+mas de 15 minutos y son diarias
+La PLANNING se realiza a principio del spring y sirve para planificar como van a desarrollar el spring encomendado.
+Una vez finalizada la iteracion, se le muestra al cliente el incremento en el producto. 
